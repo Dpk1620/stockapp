@@ -40,5 +40,5 @@ use pie charts and table format for showing data that will take small space and 
 use nested routes / navigation for push the users for their exact data. 
 all data have need more wrappind and calculation based so user get the data exactly rather then he have to calculate as per statics so user have more chance to revist.
 also SEO is important for getting multiple users traffic for easy search and availablity.
-     
+ex: I am a serching a website where i check the stocks update after check all the stock what comes in mind next calculation. so if i will calculate on that website as per stock movement history and calculation platform so i still stuck of website after the long process of calculation and then that redirect link from where i can get some of guide per implementing my knowledge (Investment). so a user stay for their time efficiency, speed up and heigh lighted context for imp titles, company Name, Specific up down ratio bars to show the exact way that particular stocks are high or low so i don;t have to revise on every list of data.      
 
