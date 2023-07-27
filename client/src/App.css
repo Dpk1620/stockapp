@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.cardMain {
+  display: flex;
+  margin-left: 4rem;
+  margin-top: 10px;
+  flex-direction: column;
+}
+.Title {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  width: 250px;
+  height: 180px;
+  justify-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+  border-radius: 20px;
+}
+.TitleH1Set {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
+.rowSame {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.inputField {
+  padding-left: 10px;
+  margin-left: 2px;
+  border-radius: 15px;
+  border-color: violet;
+  width: 200px;
+}
+.buttonStock {
+  background-color: rgba(115, 1, 22, 0.605);
+  padding-left: 4rem;
+  padding-right: 4rem;
+  border-radius: 10px;
+  color: white;
+  font-style: normal;
+  font-size: medium;
+}
+.notFoundResponse {
+  display: flex;
+  border: 1px solid;
+  border-radius: 10px;
+}

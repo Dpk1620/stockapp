@@ -1,6 +1,10 @@
+import Dashboard from "./component/Dashboard";
+import "./App.css"
+
 function App() {
+// import Dashboard component for Stock page
 	return (
-		<h1>Hello world</h1>
+		<Dashboard/>
 	);
 }
 
